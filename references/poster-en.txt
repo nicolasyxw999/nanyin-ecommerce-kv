@@ -1,0 +1,14 @@
+Create one complete, standalone ecommerce product poster in portrait orientation with an aspect ratio of [ratio]. Brand: [brand]. Product: [name]. Poster theme: [theme].
+Use the client's brand. Do not add the skill author's name, content brand, website, or watermark to the artwork. Generate and save only; do not publish externally.
+Use the supplied product reference to preserve structure, proportions, color, logo placement, and surface finish. Lock product identity and visual style, but independently design this poster's composition below. Do not inherit the reference poster's layout or copy unrelated text, buttons, or production notes.
+Visual direction: [specific palette, lighting, and photographic or illustrative treatment].
+Communication task and visual protagonist: [one consumer takeaway and the primary visual carrying that information].
+Distinct composition: [layout, shot scale, viewpoint, foreground/middle/background relationships, product position and relative size, reading path, text density, and negative space; specify at least two meaningful differences from adjacent posters].
+Scene or detail: [action and person-product relationship, or the actual product detail shown; include a phone only to explain software features and use information cards according to content needs].
+Lighting and materials: [light direction and softness, actual surface finish, contact shadows, and background depth expressed as visible details rather than generic adjectives].
+Typography layout: [position, hierarchy, color, type style, bilingual relationship, and reading order for every text group; consistent fonts and language hierarchy do not require identical text-block positions or areas].
+Artwork text language: [Chinese, English, or bilingual]. Headline: [copy]. Supporting copy: [copy]. Use only these supplied product claims: [claims]. Where another artwork language is requested, translate this copy without adding information and establish a clear hierarchy.
+[Include the approved disclaimer and position only when explicitly specified for this campaign. If its exact wording uses another language, bind the corresponding separate copy table and instruct the image tool to reproduce that approved wording verbatim without translating it; keep the prompt instructions English-only.]
+The outer design is a static ecommerce poster: no clickable-looking buttons, link arrows, navigation, or fake links. If a phone appears, genuine feature controls belong strictly inside its screen.
+Omit unspecified specifications and their visual modules. Do not print production statuses such as pending confirmation, uncertain, sample figures, or internal review. Do not invent specifications, certifications, sales, reviews, or test results. Add no unprovided hardware.
+Use crisp, complete lettering, restrained hierarchy, natural anatomy and hands, and an undistorted product. Avoid unrelated brands, watermarks, and clipping.
